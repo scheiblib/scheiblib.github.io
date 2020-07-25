@@ -1,2 +1,2 @@
-# scheiblib.guthub.io
+# scheiblib.github.io
 Demo page
